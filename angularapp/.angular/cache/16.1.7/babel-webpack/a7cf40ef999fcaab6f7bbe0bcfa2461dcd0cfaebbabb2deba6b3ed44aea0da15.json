@@ -1,0 +1,1 @@
+{"ast":null,"code":"\"use strict\";\n\ntitle = 'angularapp';","map":{"version":3,"names":["title"],"sources":["/home/coder/project/workspace/angularapp/src/app/app.component.ts"],"sourcesContent":["\n  title = 'angularapp';\n}\n"],"mappings":";;AACEA,KAAK,GAAG,YAAY"},"metadata":{},"sourceType":"script","externalDependencies":[]}
