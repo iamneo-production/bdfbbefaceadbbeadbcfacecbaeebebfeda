@@ -57,7 +57,7 @@
     <div >
       <p id = "name">Name: {{f.name}}</p><br>
       <p id = "calories">Calory: {{f.calory}}</p><br>
-      <img [src] = "f.image" alt = "dfb" style="width: 600px;height: 400px;">
+      <img id ="image" [src] = "f.image" alt = "dfb" style="width: 600px;height: 400px;">
       <input type="number" #count1>
       <button (onclick) = "add(count1.value)" id= "newFood">Add</button>
     </div>
